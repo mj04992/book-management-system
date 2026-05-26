@@ -1,8 +1,16 @@
-# Book Management System
+# 📚 Book Management System
 
 A simple React-based Book Management System application that performs CRUD operations using MockAPI.
 
-## Features
+---
+
+## 🚀 Live Demo
+
+👉 https://roaring-monstera-91bd87.netlify.app
+
+---
+
+## 📌 Features
 
 - View all books
 - Add new books
@@ -13,35 +21,25 @@ A simple React-based Book Management System application that performs CRUD opera
 - API integration using MockAPI
 - Loading and error handling
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - React
 - Vite
 - Axios
 - MockAPI
 
-## API Used
+---
 
-MockAPI
+## 🌐 API Used
 
-## Setup Instructions
+MockAPI (https://mockapi.io)
 
-1. Clone the repository
+---
 
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository
+```bash
 git clone https://github.com/mj04992/book-management-system.git
-
-2. Install dependencies
-
-npm install
-
-3. Run the project
-
-npm run dev
-
-## GitHub Repository
-
-https://github.com/mj04992/book-management-system
-
-## Live Deployment
-
-Add your Vercel deployment URL here
